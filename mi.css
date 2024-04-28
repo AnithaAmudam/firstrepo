@@ -1,4 +1,5 @@
 body{
     background-color:yellow;
     border-radius: 2px;
+    text-overflow: ellipsis;
 }
